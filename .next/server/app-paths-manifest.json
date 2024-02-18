@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/ver-producto/page": "app/ver-producto/page.js",
+  "/crear-producto/page": "app/crear-producto/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
